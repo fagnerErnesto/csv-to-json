@@ -1,0 +1,8 @@
+{
+  "name": "csv2json",
+  "author": "Fagner Ernesto",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.4"
+  }
+}
